@@ -1,0 +1,4 @@
+EnhancedBloodReward
+===================
+
+My combat mod 
