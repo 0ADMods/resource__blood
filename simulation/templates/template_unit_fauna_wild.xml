@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna">
+  <Minimap>
+    <Type>food</Type>
+    <Colour r="255" g="0" b="15"/>
+  </Minimap>
+  <Health>
+    <DeathType>remain</DeathType>
+  </Health>
+  
+</Entity>

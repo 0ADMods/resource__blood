@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_wild">
+  <Identity>
+  </Identity>
+  <UnitAI>
+    <NaturalBehaviour>passive</NaturalBehaviour>
+  </UnitAI>
+  <ResourceSupply>
+    <KillBeforeGather>true</KillBeforeGather>
+    <Amount>100</Amount>
+    <Type>blood.meat</Type>
+	<MaxGatherers>8</MaxGatherers>
+  </ResourceSupply>
+</Entity>

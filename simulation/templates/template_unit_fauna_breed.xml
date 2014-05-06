@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna">
+  <Identity>
+  </Identity>
+  <Vision>
+    <Range>20</Range>
+  </Vision>
+  <Minimap>
+    <Type>food</Type>
+    <Colour r="115" g="70" b="30"/>
+  </Minimap>
+</Entity>

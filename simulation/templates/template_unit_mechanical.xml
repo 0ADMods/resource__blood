@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit">
+  <Decay>
+    <Inactive/>
+    <DelayTime>0.0</DelayTime>
+    <SinkRate>0.0</SinkRate>
+    <SinkAccel>2.0</SinkAccel>
+  </Decay>
+  <Health>
+    <Unhealable>true</Unhealable>
+    <Repairable>true</Repairable>
+  </Health>
+  <Identity>
+    <GenericName>Mechanical</GenericName>
+    <Classes datatype="tokens">Mechanical</Classes>
+  </Identity>
+  <Cost>
+    <Resources>
+		<blood>15</blood>
+    </Resources>
+  </Cost>
+  <Loot>
+    <xp>60</xp>
+    <food>0</food>
+    <wood>50</wood>
+    <stone>0</stone>
+    <metal>25</metal>
+	<blood>0</blood>
+  </Loot>
+</Entity>
